@@ -23,4 +23,4 @@ plot.axhline(y=0, color='k')
 plot.show()
 
 
-#yang ijo ijo ini bisa diapus. hapusnya sampe tanda pagar pojok kiri.
+#yang tulisan ini bisa diapus. hapusnya sampe tanda pagar pojok kiri.
